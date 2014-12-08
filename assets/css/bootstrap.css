@@ -3359,7 +3359,7 @@ input[type="button"].btn-block {
 
 .btn-primary {
   color: #000000;
-  text-weight: bold;
+  font-weight: bold;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
   background-color: #AAAA00;
   *background-color: #AAAA00;
